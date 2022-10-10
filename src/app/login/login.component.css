@@ -1,0 +1,12 @@
+.authentication-card {
+    margin: 0 auto;
+    width: 400px;
+    height: 400px;
+    box-sizing: border-box;
+    background: #ffffff;
+}
+
+.authentication-card-container {
+    min-height: calc(100vh - 64px);
+    background: rgb(255,255,200);
+}
