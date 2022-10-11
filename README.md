@@ -1,5 +1,10 @@
 # SchnellSchnellApp
 
+This is the UI for the Schnell-Schnell
+Run `ng serve` for dev server and can access at `http://localhost:4200`.
+This will proxy to a GO api on `http://localhost:8080`
+
+## Angular
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
 
 ## Development server
