@@ -19,3 +19,12 @@
     /* width: 100%; *//* This has issue with padding */
     width: 368px;
 }
+
+::ng-deep .custom-style {
+    background-color:brown;
+    color:white;
+}
+
+.mat-simple-snackbar-action {
+    color: red;
+}
